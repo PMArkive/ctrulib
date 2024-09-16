@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['osconvertoldlinearmemtonew_5849',['osConvertOldLINEARMemToNew',['../os_8h.html#a41ed4b6791dc260649c69b1c065f232e',1,'os.h']]],
+  ['osconvertvirttophys_5850',['osConvertVirtToPhys',['../os_8h.html#ad5be83050dcdaf4ba7824a2afd420866',1,'os.h']]],
+  ['osget3dsliderstate_5851',['osGet3DSliderState',['../os_8h.html#a3b62a51a9c8f111843c1fd3ef0756026',1,'os.h']]],
+  ['osgetapplicationmemtype_5852',['osGetApplicationMemType',['../os_8h.html#a2f8d5fa6b6dcdd275499eea50219bfb3',1,'os.h']]],
+  ['osgetfirmversion_5853',['osGetFirmVersion',['../os_8h.html#a383e9cab6b8d56a0e419fc830fe4c4e2',1,'os.h']]],
+  ['osgetkernelversion_5854',['osGetKernelVersion',['../os_8h.html#a19f063780d025bae2b9c169440eb7598',1,'os.h']]],
+  ['osgetmemregionfree_5855',['osGetMemRegionFree',['../os_8h.html#a21dbc581346733ec3fca0a3986dbd046',1,'os.h']]],
+  ['osgetmemregionsize_5856',['osGetMemRegionSize',['../os_8h.html#a84c11685ada809c00648ff3fa9d9c8d8',1,'os.h']]],
+  ['osgetmemregionused_5857',['osGetMemRegionUsed',['../os_8h.html#a9c7da76485fb0c673bc5b913cb8c7083',1,'os.h']]],
+  ['osgetsystemcoreversion_5858',['osGetSystemCoreVersion',['../os_8h.html#a8b38d0ea945c9816d1f7173334227a0e',1,'os.h']]],
+  ['osgetsystemversiondata_5859',['osGetSystemVersionData',['../os_8h.html#ac3bc6073f0b8a41926ad0de5a2a4d4cb',1,'os.h']]],
+  ['osgetsystemversiondatastring_5860',['osGetSystemVersionDataString',['../os_8h.html#abeb74bb5b93330aff04bf10d317aa9d3',1,'os.h']]],
+  ['osgettime_5861',['osGetTime',['../os_8h.html#a05661250c79188dc1c54cd2776d9fb21',1,'os.h']]],
+  ['osgettimeref_5862',['osGetTimeRef',['../os_8h.html#a558cbe8dfd6cb624ca4350a3036cdcf5',1,'os.h']]],
+  ['osgetwifistrength_5863',['osGetWifiStrength',['../os_8h.html#aa38acca606f2880ac3ee9f6c531a6eaa',1,'os.h']]],
+  ['osisheadsetconnected_5864',['osIsHeadsetConnected',['../os_8h.html#a8e0cfa91ba702211f3a235a36b7901a5',1,'os.h']]],
+  ['ossetspeedupenable_5865',['osSetSpeedupEnable',['../os_8h.html#a7484b739da8ae26a3df6d363eeb13d98',1,'os.h']]],
+  ['osstrerror_5866',['osStrError',['../os_8h.html#a061ac8524aac2414f830fa821da7df03',1,'os.h']]],
+  ['ostickcounterread_5867',['osTickCounterRead',['../os_8h.html#a64822647ef4d119deea35ed971683c35',1,'os.h']]],
+  ['ostickcounterstart_5868',['osTickCounterStart',['../os_8h.html#ae51bb4cd74ac9cda5f40cb23b8e5b146',1,'os.h']]],
+  ['ostickcounterupdate_5869',['osTickCounterUpdate',['../os_8h.html#a2b5624b8fab29f0d4f2d9e996d0a7d21',1,'os.h']]]
+];
